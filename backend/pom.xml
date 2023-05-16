@@ -11,7 +11,7 @@
 	<groupId>de.neueFische</groupId>
 	<artifactId>woche5-FirstFullStackProject_backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend</name>
+	<name>woche5-FirstFullStackProject_backend</name>
 	<description>backend</description>
 	<properties>
 			<java.version>17</java.version>
